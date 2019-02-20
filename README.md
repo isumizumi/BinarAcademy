@@ -9,14 +9,14 @@ P.s.: CMIIW please... (Correct Me If I Wrong)
 
 ### **Session 1**
 
-1. Web Developer
+**1. Web Developer**
 Front-end vs Back-end vs Fullstack Developer
 
 ![Frameworks-Libraries-Languages for Frontend, Backend, Fullstack](http://www.inventivewheel.com/wp-content/uploads/2016/02/Frameworks-1.png)
 
 - [Explanation about Frontend, Backend, Fullstack //by: Makers Institute](https://medium.com/@makersinstitute/front-end-back-end-full-stack-apa-artinya-36e0f25e8142)
 
-2. Web Architecture
+**2. Web Architecture**
 Single Page Application (SPA) vs Progressive Web App (PWA) vs Server Side Rendering (SSR)
 Example:
 SPA: mail.google.com (no need SEO)
@@ -38,7 +38,7 @@ SSR: a lot sites
 
 - [Explanation about SSR for React App //by: Freecodecamp](https://medium.freecodecamp.org/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e)
 
-3. Framework JS: 
+**3. Framework JS** 
 React vs Vue vs Angular 
 
 - React:
@@ -55,28 +55,32 @@ React vs Vue vs Angular
 
 - [Explanation about React vs Vue vs Angular //by: Vuejs](https://vuejs.org/v2/guide/comparison.html)
 
-4. Nodejs: server side (Now Js can compile, not only client side)
+**4. Nodejs**
+Server side (Now Js can compile, not only client side)
 
-5. Git Intro & Basic syntax (config, status, remote, add, commit, push)
+**5. Git Intro**
+Git Basic syntax (config, status, remote, add, commit, push)
 
 ![Git Development Process](https://livablesoftware.com/wp-content/uploads/2017/11/Github-EN.jpg)
 
 ![Git Cheat Sheet](https://raw.githubusercontent.com/hbons/git-cheat-sheet/master/preview.png)
 
-7. Working directory using CLI (cd, mkdir, touch, nano)
+**7. Working directory**
+CLI Basic syntax (cd, mkdir, touch, nano)
 
-8. Html intro & push to Gitlab
+**8. Html intro**
+Create simple web & push to Gitlab
 
-*Notes* 
+**_Notes_** 
 
-1. SPA vs MPA
+**1. SPA vs MPA**
 ![SPA vs MPA](https://www.mindk.com/blog/wp-content/uploads/2018/03/1.png)
 
 - [Explanation about Comparison SPA vs MPA //by: Ruby Garage](https://rubygarage.org/blog/single-page-app-vs-multi-page-app)
 
 - [Explanation about Comparison SPA vs MPA //by: Medium @NeotericEU](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
 
-2. ReactJs vs React Native
+**2. ReactJs vs React Native**
 
 ![ReactJs vs React Native](https://www.konstantinfo.com/blog/wp-content/themes/konstantinfo/imageC.php?image=/2018/03/ReactJS-and-React-Native-1.jpg)
 
@@ -86,7 +90,7 @@ React vs Vue vs Angular
 
 - [Explanation about React Native vs Real Native App //by: Hackernoon](https://hackernoon.com/react-native-vs-real-native-apps-which-is-better-a8383d6f7ca5)
 
-3. Framework vs Library
+**3. Framework vs Library**
 
 ![Framework vs Library](https://i2.wp.com/www.dunebook.com/wp-content/uploads/2018/06/choosing-your-pearl-in-jocean-5-638.jpg?w=638&ssl=1)
 
