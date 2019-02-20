@@ -4,6 +4,7 @@
 ## My mentor: @dotdidik :sparkles:
 
 I will share my knowledge while studying at the Binar Academy.
+
 P.s.: CMIIW please... (Correct Me If I Wrong)
 
 
@@ -50,11 +51,17 @@ SSR: a lot sites
 React vs Vue vs Angular 
 
 - React:
+
 (+) High performance, render pixel detail (using component)
+
 (-) Bad documentation lifecycle, not available good framework recommended from developer React (only 3rd party)
+
 - Vue:
+
 (+) good documentation lifecycle, good framework recommended from developer Vue (similar html)
+
 (-) Little bit low performance
+
 - Angular -> Typescript
 
 ![React vs Vue vs Angular](https://dzone.com/storage/temp/10880637-inforgrafic-react-angular-vue.jpg)
