@@ -149,11 +149,11 @@ React vs Vue vs Angular
 
 (+) High performance, render pixel detail (using component)
 
-(-) Bad documentation lifecycle, not available good framework from developer React (framework only from 3rd party)
+(-) Poor documentation, not available good framework from React developer (framework only from 3rd party)
 
 - Vue:
 
-(+) Good documentation lifecycle, good framework recommended from developer Vue 
+(+) Simple and rich documentation, good framework recommended from Vue developer 
 
 (-) Little bit low performance
 
