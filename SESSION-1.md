@@ -161,6 +161,8 @@ React vs Vue vs Angular
 
 ![React vs Vue vs Angular](https://dzone.com/storage/temp/10880637-inforgrafic-react-angular-vue.jpg)
 
+#### **_Reference Links_** 
+
 - [React vs Vue vs Angular //by: Dzone](https://dzone.com/articles/react-vs-angular-vs-vuejs-a-complete-comparison-gu)
 
 - [React vs Vue vs Angular //by: Vuejs](https://vuejs.org/v2/guide/comparison.html)
@@ -195,6 +197,8 @@ Create simple web & push to Gitlab
 
 ![Comparasion](https://www.mindk.com/blog/wp-content/uploads/2018/03/1.png)
 
+#### **_Reference Links_** 
+
 - [SPA vs MPA //by: Ruby Garage](https://rubygarage.org/blog/single-page-app-vs-multi-page-app)
 
 - [SPA vs MPA //by: Medium @NeotericEU](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
@@ -202,6 +206,8 @@ Create simple web & push to Gitlab
 ##### **2. ReactJs vs React Native**
 
 ![ReactJs vs React Native](https://www.konstantinfo.com/blog/wp-content/themes/konstantinfo/imageC.php?image=/2018/03/ReactJS-and-React-Native-1.jpg)
+
+#### **_Reference Links_** 
 
 - [ReactJs vs React Native //by: Refactory](https://refactory.id/post/39-reactjs-vs-react-native)
 
@@ -217,6 +223,8 @@ Martin Fowler said:
 > A library is essentially a set of functions that you can call, these days usually organized into classes. Each call does some work and returns control to the client.
 
 > A framework embodies some abstract design, with more behavior built in. In order to use it you need to insert your behavior into various places in the framework either by subclassing or by plugging in your own classes. The framework's code then calls your code at these points.
+
+#### **_Reference Links_** 
 
 - [Framework vs Library //by: Freecodecamp](https://medium.freecodecamp.org/the-difference-between-a-framework-and-a-library-bd133054023f)
 
