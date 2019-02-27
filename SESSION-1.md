@@ -183,11 +183,13 @@ CLI Basic syntax (cd, mkdir, touch, nano)
 
 ---
 
-### **6. Html intro**
+### **6. HTML Intro**
 
 Create simple web & push to Gitlab
 
 ---
+
+
 
 #### **_Notes_** 
 
