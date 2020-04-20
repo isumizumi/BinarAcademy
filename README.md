@@ -13,5 +13,3 @@ P.s.: CMIIW please... (Correct Me If I Wrong)
 | [1](https://github.com/isumizumi/BinarAcademy/blob/master/SESSION-1.md) | Web Developer & Technology, Web Architecture, Framework JS, Git Intro, Working with directory, HTML Intro, Notes |
 | [2](https://github.com/isumizumi/BinarAcademy/blob/master/SESSION-2.md) | ReactJS vs React Native, CSS Intro, Practice using Git on Gitlab |
 | [3](https://github.com/isumizumi/BinarAcademy/blob/master/SESSION-3.md) | Practice using CSS, Notes |
-| [4](https://github.com/isumizumi/BinarAcademy/blob/master/SESSION-4.md) | Code Challenge, Notes |
-| [5](https://github.com/isumizumi/BinarAcademy/blob/master/SESSION-5.md) | Bootstrap, NodeJS Intro, Notes |
